@@ -2032,7 +2032,7 @@
 			<key>SysReport</key>
 			<false/>
 			<key>Target</key>
-			<integer>67</integer>
+			<integer>3</integer>
 		</dict>
 		<key>Entries</key>
 		<array/>
@@ -2115,7 +2115,7 @@
 				Rg==
 				</data>
 				<key>boot-args</key>
-				<string>-v debug=0x100 keepsyms=1 alcid=11</string>
+				<string>debug=0x100 keepsyms=1 alcid=11</string>
 				<key>csr-active-config</key>
 				<data>
 				AAAAAA==
