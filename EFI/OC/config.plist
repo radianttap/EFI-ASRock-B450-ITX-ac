@@ -38,22 +38,6 @@
 				<key>Path</key>
 				<string>SSDT-USBX-AMD.aml</string>
 			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>SSDT-DTPG (Radeon prep)</string>
-				<key>Enabled</key>
-				<true/>
-				<key>Path</key>
-				<string>SSDT-DTPG.aml</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>SSDT-RX570 (Radeon power setup)</string>
-				<key>Enabled</key>
-				<true/>
-				<key>Path</key>
-				<string>SSDT-RX570.aml</string>
-			</dict>
 		</array>
 		<key>Delete</key>
 		<array/>
