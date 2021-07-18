@@ -1,6 +1,6 @@
 OpenCore ver 0.7.0 · Bug Sur 11.4
 
-# ASRock B450 ITX/ac + Ryzen 5 3600 + RX 570 XT → iMacPro1,1
+# ASRock B450 ITX/ac + Ryzen 5 3600 + RX 5500 XT → iMacPro1,1
 
 Current hardware:
 
@@ -8,7 +8,7 @@ Current hardware:
 - AMD [Ryzen 5 3600](https://www.amd.com/en/products/cpu/amd-ryzen-5-3600) CPU
 - Acetek 645LT AIO
 - Noctua [NF-A9x14](https://noctua.at/en/products/fan/nf-a9x14-pwm) fan, placed on top the AIO
-- Sapphire [Nitro+ RX 570 XT 8GB](https://www.sapphiretech.com/en/consumer/nitro-rx-570-8g-g5-oc) graphics card
+- Sapphire [Pulse RX 5500 XT SF 8GB](https://www.sapphiretech.com/en/consumer/pulse-radeon-rx-5500-xt-sf-8g-gddr6) graphics card
 - Corsair [Vengeance LPX](https://www.corsair.com/ww/en/Categories/Products/Memory/VENGEANCE-LPX/p/CMK16GX4M2B3200C16) 16 GB (2 x 8 GB) DDR4 3200MHz CL16
 - Corsair [SF600 Platinum](https://www.corsair.com/us/en/Categories/Products/Power-Supply-Units/Power-Supply-Units-Advanced/SF-Series/p/CP-9020182-NA) SFX PSU
 - ADATA [XPG 8200 Pro](https://www.xpg.com/us/feature/583/) 1TB NVMe SSD

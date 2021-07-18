@@ -319,7 +319,7 @@
 				<key>Arch</key>
 				<string>x86_64</string>
 				<key>BundlePath</key>
-				<string>AGPM-RX570-iMacPro1.1.kext</string>
+				<string>AGPM-RX-5500XT.kext</string>
 				<key>Comment</key>
 				<string>Apple Graphics Power Management</string>
 				<key>Enabled</key>
@@ -2220,7 +2220,7 @@
 				</data>
 				<key>UIScale</key>
 				<data>
-				Ag==
+				AQ==
 				</data>
 			</dict>
 			<key>4D1FDA02-38C7-4A6A-9CC6-4BCCA8B30102</key>
@@ -2236,7 +2236,7 @@
 				Rg==
 				</data>
 				<key>boot-args</key>
-				<string>debug=0x100 keepsyms=1 alcid=11</string>
+				<string>debug=0x100 agdpmod=pikera keepsyms=1 alcid=11</string>
 				<key>csr-active-config</key>
 				<data>
 				AAAAAA==
